@@ -1,0 +1,51 @@
+body {
+    background: url(../image/large.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+form input, textarea {
+    width: 100%;
+}
+.container {
+    width: 600px;
+    margin: auto;
+    padding: 0;
+    background: #fff;
+    margin-top: 100px;
+}
+form {
+    padding: 10px;
+    border-top: 4px solid #4d75bf;
+    padding-bottom: 0px;
+}
+form h2 {
+    margin: 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+    font-family: serif;
+}
+.form-horizontal {
+    padding-top: 0;
+}
+.right {
+    text-align: right;
+}
+p {
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    font-family: serif;
+    font-size: 12px;
+}
+.ultimo {
+    margin: 0;
+}
+.underline {
+    text-decoration: underline;
+}
+.asterisco {
+    color: red;
+}
